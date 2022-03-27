@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './app.css';
+import './App.css';
 import Trival from './component/Trival';
 import Start from './component/Start'
 
